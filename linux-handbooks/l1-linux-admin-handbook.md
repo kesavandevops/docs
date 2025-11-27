@@ -272,5 +272,3 @@ A guide that covers essential commands, system management tasks, and troubleshoo
   ```bash
   sudo ufw disable
   ```
-
----
